@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.nn{
+    border: 2px solid black;
+}
+
+.nn tr{
+    border: 2px solid black;
+}
+
+.nn th{
+border: 2px solid black;
+}
+
+.nn td{
+    border: 2px solid black;
+}
